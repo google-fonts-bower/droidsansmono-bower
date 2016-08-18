@@ -1,0 +1,17 @@
+{
+    "name": "droidsansmono-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Steve Matteson"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/droidsansmono-bower.git"
+    },
+    "description": "Droid Sans Mono font",
+    "keywords": [
+        "font",
+        "MONOSPACE"
+    ]
+}
